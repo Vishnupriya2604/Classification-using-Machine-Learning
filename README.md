@@ -1,4 +1,5 @@
-# Machine-Learning-Projects
+# Machine-Learning-Project
+# Classification on Yelp Dataset
 
 ### Project Details
 This project is done to demonstrate different machine learning techniques as learned in DATS 6202- Machine Learning 1 class at the George Washington University. The focus of this project was to use real-time data to build different models.
